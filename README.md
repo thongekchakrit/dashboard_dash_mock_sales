@@ -1,4 +1,4 @@
-# Building Dashboard Using Python (Dash)
+# Building Web Application Dashboard Using Python (Dash)
 
 <img class="ui fluid image"  src="https://github.com/thongekchakrit/dashboard_dash_mock_sales/blob/master/assets/images/dashboard_show.png">
 
