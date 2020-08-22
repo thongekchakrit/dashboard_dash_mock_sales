@@ -1,3 +1,5 @@
+<img class="ui fluid image"  src="https://github.com/thongekchakrit/dashboard_dash_mock_sales/blob/master/assets/images/dashboard_show.png">
+
 # E-Documentation (Sales Dashboard)
 The business intelligence dashboard is an important analytics tool that is used to visualize data across all industries. Using these dashboards, useful insights to Business Performance Management such as the critical reporting and metric information can be readily displayed and used by various departments to drive actionable business decisions.
 
