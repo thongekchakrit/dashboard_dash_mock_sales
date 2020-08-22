@@ -123,9 +123,9 @@ The data points on the data visualization can be hovered.
 
 Using dash callback python declarators, the first data figure can be interacted with. I've made a drop down menu, which parses in the variable to the plotly graph, and the graph will be generating depending on the variable.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/dashboard_dash_mock_sales/blob/master/assets/images/dashboard_graph1.PNG">
+<img class="ui fluid image"  src="https://github.com/thongekchakrit/dashboard_dash_mock_sales/blob/master/assets/images/dashboard_graph1.png">
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/dashboard_dash_mock_sales/blob/master/assets/images/dashboard_graph2.PNG">
+<img class="ui fluid image"  src="https://github.com/thongekchakrit/dashboard_dash_mock_sales/blob/master/assets/images/dashboard_graph2.png">
 
 ## 6. Future implementation
 The future implementation of Conversational Analytics may be done using dash_core_components 'input' syntax.
