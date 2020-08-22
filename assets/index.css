@@ -1,0 +1,68 @@
+/* BASIC TYPOGRAPHY                       */
+/* from https://github.com/oxalorg/sakura */html {
+    font-size: 62.5%;
+    font-family: serif;
+  }
+  body {
+    font-size: 1.8rem;
+    line-height: 1.618;
+    max-width: 95em;
+    margin: auto;
+    color: #41444b;
+    background-color: #f3f3f3;
+    padding: 13px;
+    padding-top: 25px;
+    padding: 13px;
+    padding-top: 25px;
+  
+  }@media (max-width: 684px) {
+    body {
+      font-size: 1.53rem;
+    }
+  }@media (max-width: 382px) {
+    body {
+      font-size: 2.35rem;
+    }
+  }h1, h2, h3, h4, h5, h6 {
+    line-height: 1.1;
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: 700;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -ms-word-break: break-all;
+    word-break: break-word;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+
+  }h1 {
+    font-size: 2.35em;
+  }h2 {
+    font-size: 2em;
+  }h3 {
+    font-size: 1.75em;
+  }h4 {
+    font-size: 1.5em;
+  }h5 {
+    font-size: 1.25em;
+  }h6 {
+    font-size: 1em;
+  }
+
+  .dash-table-container .row {
+    margin: 0;
+  }
+
+  .column {
+    padding: 10px;
+  }
+  
+  .alert{
+    box-shadow : 5px 4px 2.5px #dddddd;
+    text-align: center;
+    text-justify: distribute;
+    font-size: 1.8rem;
+    height: 50px;
+  }
+
