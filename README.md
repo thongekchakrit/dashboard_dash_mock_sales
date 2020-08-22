@@ -73,9 +73,9 @@ The structure of the Dash application is presented below:
     |-- elt.py
     |-- extract_load.py
     |-- initialize_datawh.py
-    |-- peration_database.py
+    |-- operation_database.py
     |-- data_warehouse.db (Generated with DBmanager.py)
-    |-- peration.db (Generated with DBmanager.py)
+    |-- operation.db (Generated with DBmanager.py)
     -sources
         |-- Product Details.xls
         |-- Sales Orders.xls
