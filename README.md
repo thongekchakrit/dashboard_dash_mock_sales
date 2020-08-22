@@ -45,7 +45,7 @@ $ pip install pandas
 ```
 
 ## 2. Data Pipeline
-Below is an illustration of the data flow of our application.
+Below is an illustration of the data flow for our application.
 
 Firstly, the data was extracted, loaded and normalized before insertion into a database via SQlite. 
 
