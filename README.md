@@ -1,4 +1,4 @@
-# E-Documentation (Sales Dashboard)
+# Building Dashboard Using Python (Dash)
 
 <img class="ui fluid image"  src="https://github.com/thongekchakrit/dashboard_dash_mock_sales/blob/master/assets/images/dashboard_show.png">
 
@@ -141,4 +141,4 @@ https://dash.plotly.com/dash-core-components/input
 - Plotly - Use to visualize data
 
 ## Author
-Chakrit Thong Ek
+[Chakrit Thong Ek](https://github.com/thongekchakrit)
