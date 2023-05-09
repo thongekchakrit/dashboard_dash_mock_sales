@@ -183,7 +183,7 @@ BS = "https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/litera/bootstrap.min.c
 app = dash.Dash(__name__, external_stylesheets=[BS])
 server = app.server
 
-app.title = 'SPH Dashboard'
+app.title = 'Mock Company Dashboard'
 # Define app layout
 
 app.layout = html.Div(
